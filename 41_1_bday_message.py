@@ -1,3 +1,5 @@
+# Membuat pesan ulang tahun acak dari daftar pesan yang telah ditentukan
+
 import random
 
 bday_messages = [

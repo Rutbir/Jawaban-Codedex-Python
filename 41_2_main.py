@@ -1,3 +1,5 @@
+# Mengecek apakah hari ini adalah ulang tahun dan menampilkan pesan ulang tahun acak atau menghitung hari menuju ulang tahun
+
 import datetime
 import importlib
 

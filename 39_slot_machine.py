@@ -1,3 +1,5 @@
+# Membuat program slot machine sederhana
+
 import random
 
 symbols = ['🍒', '🍇', '🍉', '7️⃣']

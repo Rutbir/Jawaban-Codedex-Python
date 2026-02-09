@@ -1,3 +1,5 @@
+# Membuat kelas City dengan atribut nama, negara, populasi, dan landmarks
+
 class City:
   def __init__(self, name, country, population, landmarks):
     self.name = name

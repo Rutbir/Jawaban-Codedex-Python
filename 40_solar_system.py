@@ -1,3 +1,5 @@
+# Menghitung luas permukaan planet secara acak
+
 from math import pi
 from random import choice as ch
 

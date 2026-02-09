@@ -1,3 +1,5 @@
+# Membuat program pokedex sederhana dengan metode class
+
 class Pokemon:
   def __init__(self, entry, name, types, description, is_caught):
     self.entry = entry

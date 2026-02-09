@@ -1,3 +1,5 @@
+# Membuat kelas Restaurant dengan atribut nama, kategori, rating, dan pengantaran
+
 class Restaurant:
    name = ""
    category = ""
